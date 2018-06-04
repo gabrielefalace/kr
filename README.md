@@ -1,6 +1,6 @@
 # kr - Kube Reporter
 
-This is a small client-side tool to get information from Kubernetes pods by running the `kubectl` command (in parallel) against different environments for a given project.
+This is a small client-side tool to get information about Kubernetes pods by running the `kubectl` command (in parallel) against different environments for a given project.
 
 ### How to use
 
